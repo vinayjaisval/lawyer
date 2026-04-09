@@ -250,7 +250,16 @@ a:focus {
     .nav-bar a.nav-link {
         padding: 8px 15px;
         font-size: 15px;
-        text-transform: uppercase;
+        text-align: left;
+    line-height: 0.5em;
+    color: #D8D8D8;
+    font-family: questrial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 13px;
+
+        /* text-transform: uppercase; */
     }
 }
 
@@ -731,12 +740,12 @@ a:focus {
 }
 
 .feature .feature-icon {
-    height: 180px;
+    height: 100px;
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #121518;
+    /* background: #121518; */
 }
 
 .feature .feature-icon i {
@@ -1771,3 +1780,11 @@ a:focus {
         text-align: center;
     }
 }
+
+.collapse {
+  &:not(.show) {
+    display: none;
+    margin-left: 160px;
+  }
+}
+

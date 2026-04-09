@@ -68,29 +68,41 @@
                         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                             <span class="navbar-toggler-icon"></span>
                         </button>
-                                    <img src="img/antlogo.avif" width="50px" height="50px" alt="Logo">
-
+                                   <a href="index.php"><img src="img/antlogo.avif" width="50px" height="50px" alt="Logo">
+</a>
                         <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                             <div class="navbar-nav mr-auto">
-                                <a href="index.html" class="nav-item nav-link active">Home</a>
+                                <!-- <a href="index.php" class="nav-item nav-link active">Home</a> -->
                                 <!-- <a href="about.html" class="nav-item nav-link">About</a> -->
-                                <a href="service.html" class="nav-item nav-link">Practice</a>
+                                <a href="practice.php" class="nav-item nav-link">Practice</a>
                                 <!-- <a href="team.html" class="nav-item nav-link">Attorneys</a> -->
                                 <a href="briefing.php" class="nav-item nav-link">Briefings</a>
+                                <a href="Key-markets.php" class="nav-item nav-link">Markets</a>
+                                <a href="awards.php" class="nav-item nav-link">Awards</a>
+                                <a href="leadership.php" class="nav-item nav-link">Leadership</a>
+                              
+                                <a href="engage.php" class="nav-item nav-link">Engage</a>
 
-                                <a href="portfolio.html" class="nav-item nav-link">Case Studies</a>
-                                <div class="nav-item dropdown">
+
+
+
+
+
+                                <a href="portfolio.html" class="nav-item nav-link">Careers</a>
+                                <!-- <div class="nav-item dropdown">
                                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                                     <div class="dropdown-menu">
                                         <a href="blog.html" class="dropdown-item">Blog Page</a>
                                         <a href="single.html" class="dropdown-item">Single Page</a>
                                     </div>
-                                </div>
-                                <a href="contact.html" class="nav-item nav-link">Contact</a>
+                                </div> -->
+                                <a href="contact.html" class="nav-item nav-link">Search</a>
+                                <a href="https://www.linkedin.com/company/anantlaw" class="nav-item nav-link" target="_blank">LinkedIn</a>
+
                             </div>
-                            <div class="ml-auto">
-                                <a class="btn" href="https://htmlcodex.com/law-firm-website-template">Get Appointment</a>
-                            </div>
+                            <!-- <div class="ml-auto">
+                                <a class="btn" href="contact.php">Get Appointment</a>
+                            </div> -->
                         </div>
                     </nav>
                 </div>
