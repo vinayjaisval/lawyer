@@ -115,7 +115,7 @@ include 'header.php';
                     </div> -->
                     <h3>Designed to Deliver</h3>
                     <p>
-                        Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
+                        AnantLaw leaders are functional experts in their fields & have been recognised amongst the top 50 Lawyers in Asia.
                     </p>
                     <a class="btn" href="">Learn More</a>
                 </div>
@@ -128,7 +128,7 @@ include 'header.php';
                     <h3>Proven Track Record
                     </h3>
                     <p>
-                        Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
+                       We know very well that old ways don't open new doors. Our work has been recognised with over 30 awards & rankings.
                     </p>
                     <a class="btn" href="">Learn More</a>
                 </div>
@@ -141,16 +141,16 @@ include 'header.php';
                     <h3>Financial Impact
                     </h3>
                     <p>
-                        Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
+                       Our team has positively contributed on balance sheet and profits of companies in excess of 50billion US$
                     </p>
                     <a class="btn" href="">Learn More</a>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
+            <!-- <div class="col-lg-4 col-md-6">
                 <div class="service-item">
-                    <!-- <div class="service-icon">
+                    <div class="service-icon">
                         <i class="fa fa-graduation-cap"></i>
-                    </div> -->
+                    </div>
                     <h3>Education Law</h3>
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
@@ -160,9 +160,9 @@ include 'header.php';
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="service-item">
-                    <!-- <div class="service-icon">
+                    <div class="service-icon">
                         <i class="fa fa-gavel"></i>
-                    </div> -->
+                    </div>
                     <h3>Criminal Law</h3>
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
@@ -172,16 +172,16 @@ include 'header.php';
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="service-item">
-                    <!-- <div class="service-icon">
+                    <div class="service-icon">
                         <i class="fa fa-globe"></i>
-                    </div> -->
+                    </div>
                     <h3>Cyber Law</h3>
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
                     </p>
                     <a class="btn" href="">Learn More</a>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>
