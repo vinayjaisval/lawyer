@@ -819,6 +819,7 @@ a:focus {
 
 .team .team-img img {
     width: 100%;
+    background-color: #121518;
 }
 
 .team .team-text {

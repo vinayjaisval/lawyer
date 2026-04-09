@@ -13,15 +13,15 @@
                                 <div class="col-5">
                                     <a href="">
                                     <div class="feature-icon">
-                                        <i class="fa fa-gavel"></i>
+                                        <i class="fa-solid fa-bell"></i>
                                     </div>
                                     </a>
                                 </div>
                                 <div class="col-7">
-                                    <h3>Best law practices</h3>
-                                    <p>
+                                    <h3>Subscribe</h3>
+                                    <!-- <p>
                                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate.
-                                    </p>
+                                    </p> -->
                                 </div>
                             </div>
                             <div class="row align-items-center feature-item">
@@ -29,46 +29,46 @@
                                 <div class="col-5">
                                     <a href="">
                                     <div class="feature-icon">
-                                        <i class="fa fa-gavel"></i>
+                                        <i class="fa-brands fa-rocketchat"></i>
                                     </div>
                                     </a>
                                 </div>
                                 
                                 <div class="col-7">
-                                    <h3>Best law practices</h3>
-                                    <p>
+                                    <h3>Enquire</h3>
+                                    <!-- <p>
                                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate.
-                                    </p>
+                                    </p> -->
                                 </div>
                             </div>
                             <div class="row align-items-center feature-item">
                                 <div class="col-5">
                                       <a href="">
                                     <div class="feature-icon">
-                                        <i class="fa fa-balance-scale"></i>
+                                        <i class="fa-regular fa-address-book"></i>
                                     </div>
                                     </a>
                                 </div>
                                 <div class="col-7">
-                                    <h3>Efficiency & Trust</h3>
-                                    <p>
+                                    <h3>Contact</h3>
+                                    <!-- <p>
                                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate.
-                                    </p>
+                                    </p> -->
                                 </div>
                             </div>
                             <div class="row align-items-center feature-item">
                                 <div class="col-5">
                                         <a href="">
                                     <div class="feature-icon">
-                                        <i class="far fa-smile"></i>
+                                        <i class="fa-solid fa-users"></i>
                                     </div>
                                     </a>
                                 </div>
                                 <div class="col-7">
-                                    <h3>Results you deserve</h3>
-                                    <p>
+                                    <h3>Apply</h3>
+                                    <!-- <p>
                                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate.
-                                    </p>
+                                    </p> -->
                                 </div>
                             </div>
                         </div>
