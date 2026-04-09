@@ -72,13 +72,13 @@
 
                         <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                             <div class="navbar-nav mr-auto">
-                                <a href="index.html" class="nav-item nav-link active">Home</a>
+                                <a href="index.php" class="nav-item nav-link active">Home</a>
                                 <!-- <a href="about.html" class="nav-item nav-link">About</a> -->
-                                <a href="service.html" class="nav-item nav-link">Practice</a>
+                                <a href="practice.php" class="nav-item nav-link">Practice</a>
                                 <!-- <a href="team.html" class="nav-item nav-link">Attorneys</a> -->
                                 <a href="briefing.php" class="nav-item nav-link">Briefings</a>
 
-                                <a href="portfolio.html" class="nav-item nav-link">Case Studies</a>
+                                <a href="portfolio.html" class="nav-item nav-link">Careers</a>
                                 <div class="nav-item dropdown">
                                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                                     <div class="dropdown-menu">
@@ -86,10 +86,12 @@
                                         <a href="single.html" class="dropdown-item">Single Page</a>
                                     </div>
                                 </div>
-                                <a href="contact.html" class="nav-item nav-link">Contact</a>
+                                <!-- <a href="contact.html" class="nav-item nav-link">Contact</a> -->
+                                <a href="https://www.linkedin.com/company/anantlaw" class="nav-item nav-link" target="_blank">LinkedIn</a>
+
                             </div>
                             <div class="ml-auto">
-                                <a class="btn" href="https://htmlcodex.com/law-firm-website-template">Get Appointment</a>
+                                <a class="btn" href="contact.php">Get Appointment</a>
                             </div>
                         </div>
                     </nav>
