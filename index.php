@@ -103,15 +103,17 @@ include 'header.php';
 <div class="service">
     <div class="container">
         <div class="section-header">
-            <h2>Our Practices Areas</h2>
+            <p>AnantLaw doesn't compete. Instead,</p>
+            <h2>We lead to set the
+                bar for competitors</h2>
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6">
                 <div class="service-item">
-                    <div class="service-icon">
+                    <!-- <div class="service-icon">
                         <i class="fa fa-landmark"></i>
-                    </div>
-                    <h3>Civil Law</h3>
+                    </div> -->
+                    <h3>Designed to Deliver</h3>
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
                     </p>
@@ -120,10 +122,11 @@ include 'header.php';
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="service-item">
-                    <div class="service-icon">
+                    <!-- <div class="service-icon">
                         <i class="fa fa-users"></i>
-                    </div>
-                    <h3>Family Law</h3>
+                    </div> -->
+                    <h3>Proven Track Record
+                    </h3>
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
                     </p>
@@ -132,10 +135,11 @@ include 'header.php';
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="service-item">
-                    <div class="service-icon">
+                    <!-- <div class="service-icon">
                         <i class="fa fa-hand-holding-usd"></i>
-                    </div>
-                    <h3>Business Law</h3>
+                    </div> -->
+                    <h3>Financial Impact
+                    </h3>
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
                     </p>
@@ -144,9 +148,9 @@ include 'header.php';
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="service-item">
-                    <div class="service-icon">
+                    <!-- <div class="service-icon">
                         <i class="fa fa-graduation-cap"></i>
-                    </div>
+                    </div> -->
                     <h3>Education Law</h3>
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
@@ -156,9 +160,9 @@ include 'header.php';
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="service-item">
-                    <div class="service-icon">
+                    <!-- <div class="service-icon">
                         <i class="fa fa-gavel"></i>
-                    </div>
+                    </div> -->
                     <h3>Criminal Law</h3>
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
@@ -168,9 +172,9 @@ include 'header.php';
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="service-item">
-                    <div class="service-icon">
+                    <!-- <div class="service-icon">
                         <i class="fa fa-globe"></i>
-                    </div>
+                    </div> -->
                     <h3>Cyber Law</h3>
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
@@ -184,144 +188,10 @@ include 'header.php';
 <!-- Service End -->
 
 
-<!-- Feature Start -->
-<div class="feature">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-7">
-                <div class="section-header">
-                    <h2>Why Choose Us</h2>
-                </div>
-                <div class="row align-items-center feature-item">
-                    <div class="col-5">
-                        <div class="feature-icon">
-                            <i class="fa fa-gavel"></i>
-                        </div>
-                    </div>
-                    <div class="col-7">
-                        <h3>Best law practices</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate.
-                        </p>
-                    </div>
-                </div>
-                <div class="row align-items-center feature-item">
-                    <div class="col-5">
-                        <div class="feature-icon">
-                            <i class="fa fa-balance-scale"></i>
-                        </div>
-                    </div>
-                    <div class="col-7">
-                        <h3>Efficiency & Trust</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate.
-                        </p>
-                    </div>
-                </div>
-                <div class="row align-items-center feature-item">
-                    <div class="col-5">
-                        <div class="feature-icon">
-                            <i class="far fa-smile"></i>
-                        </div>
-                    </div>
-                    <div class="col-7">
-                        <h3>Results you deserve</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-5">
-                <div class="feature-img">
-                    <img src="img/feature.jpg" alt="Feature">
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Feature End -->
 
 
-<!-- Team Start -->
-<div class="team">
-    <div class="container">
-        <div class="section-header">
-            <h2>Meet Our Expert Attorneys</h2>
-        </div>
-        <div class="row">
-            <div class="col-lg-3 col-md-6">
-                <div class="team-item">
-                    <div class="team-img">
-                        <img src="img/team-1.jpg" alt="Team Image">
-                    </div>
-                    <div class="team-text">
-                        <h2>Adam Phillips</h2>
-                        <p>Business Consultant</p>
-                        <div class="team-social">
-                            <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
-                            <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="team-item">
-                    <div class="team-img">
-                        <img src="img/team-2.jpg" alt="Team Image">
-                    </div>
-                    <div class="team-text">
-                        <h2>Dylan Adams</h2>
-                        <p>Criminal Consultant</p>
-                        <div class="team-social">
-                            <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
-                            <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="team-item">
-                    <div class="team-img">
-                        <img src="img/team-3.jpg" alt="Team Image">
-                    </div>
-                    <div class="team-text">
-                        <h2>Gloria Edwards</h2>
-                        <p>Divorce Consultant</p>
-                        <div class="team-social">
-                            <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
-                            <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="team-item">
-                    <div class="team-img">
-                        <img src="img/team-4.jpg" alt="Team Image">
-                    </div>
-                    <div class="team-text">
-                        <h2>Josh Dunn</h2>
-                        <p>Immigration Consultant</p>
-                        <div class="team-social">
-                            <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
-                            <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Team End -->
+
+
 
 
 <!-- FAQs Start -->
