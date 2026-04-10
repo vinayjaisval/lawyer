@@ -7,7 +7,9 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
 }
-
+/* .author{
+    padding-top: 10px;
+} */
 h1,
 h2, 
 h3, 
@@ -1789,3 +1791,263 @@ a:focus {
   }
 }
 
+
+.briefing-section {
+  background-color: #f8f9fa;
+}
+
+/* Custom Button */
+.custom-btn {
+  padding: 12px 25px;
+  border-radius: 30px;
+  border: 1px solid #000;
+  background-color: #fff;
+  color: #000;
+  font-weight: 500;
+  text-decoration: none;
+  transition: 0.3s;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Hover Effect */
+.custom-btn:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+/* Arrow animation */
+.arrow {
+  transition: transform 0.3s;
+}
+
+.custom-btn:hover .arrow {
+  transform: translateX(5px);
+}
+
+
+.custom-navbar {
+  /* background-color: #ffffff; */
+  /* border-bottom: 1px solid #eee; */
+}
+
+/* Brand */
+.navbar-brand {
+  font-size: 20px;
+  color: #000;
+}
+
+/* Nav links */
+.nav-link {
+  color: #000;
+  font-weight: 500;
+  position: relative;
+  transition: 0.3s;
+}
+
+/* Hover effect */
+.nav-link:hover {
+  color: #000;
+}
+
+/* Underline animation */
+.nav-link::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 2px;
+  background: #000;
+  left: 0;
+  bottom: -5px;
+  transition: 0.3s;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+.briefing-page {
+  /* background-color: #f5f5f5; */
+}
+
+/* Title */
+.page-title {
+  font-size: 28px;
+  font-weight: 500;
+}
+
+/* Top Links */
+.top-links a {
+  text-decoration: none;
+  color: #666;
+  font-size: 14px;
+  transition: 0.3s;
+}
+
+.top-links a:hover {
+  color: #000;
+}
+
+.briefing-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.briefing-page .row {
+  width: 100%;
+}
+
+/* Form Box Full Height */
+.form-box {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 40px;
+
+  min-height: 550px; /* 👈 IMPORTANT */
+  display: flex;
+  flex-direction: column;
+}
+
+/* Form full height */
+.form-box form {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Row grow */
+.form-box .row {
+  flex: 1;
+}
+
+.next-btn {
+  padding: 8px 20px !important;
+  font-size: 14px !important;
+  min-height: 10px !important;
+  margin-top: 0 !important;
+}
+.form-select {
+  width: 100% !important;
+}
+.custom-img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+}
+.custom-section {
+  overflow: hidden;
+}
+
+
+.cards-section .card {
+  border-radius: 12px;
+  transition: 0.3s ease;
+}
+
+.cards-section .card:hover {
+  transform: translateY(-5px);
+}
+
+
+
+.practice-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 20px;
+}
+
+.practice-description {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+
+.service {
+  padding: 50px 0;
+  background: #ffffff;
+}
+
+.col-lg-4 {
+  margin-bottom: 20px;
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.section-header h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 38px;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.service-item {
+   background: #f9f7f2;
+    border: 1px solid #e0dcd0;
+    border-radius: 10px;
+    padding: 20px 10px;
+    text-align: center;
+    margin-bottom: 15px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100px; 
+    justify-content: center;
+}
+
+.service-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
+  background: #ffffff;
+}
+
+.service-icon {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+}
+
+.service-icon img {
+   width: 60px;
+    height: 60px;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.service-item p {
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 200;
+    color: #1a1a1a;
+    min-height: 10px;
+    margin-bottom: 15px;
+}
+
+.service-item .btn {
+  display: inline-block;
+  padding: 10px 25px;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #333333;
+  border: 1px solid #333333;
+  border-radius: 0;
+  transition: all 0.3s ease;
+}
+
+.service-item .btn:hover {
+  background: #333333;
+  color: #ffffff;
+}
