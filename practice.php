@@ -26,7 +26,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/E1 Image.avif" alt="practice" />
+                      <img src="img/E1 Image.avif.mp4" alt="practice" />
                       <p>Antitrust & Competition</p>
                     </div>
                   </div>
