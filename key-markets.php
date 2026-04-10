@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-    <div class="service">
+  <div class="service">
       <div class="container">
         <div class="section-header">
           <h2>Markets</h2>
@@ -26,7 +26,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/Aerospace & Defence.avif" alt="markets" />
+                      <img src="img/m1.avif" alt="markets" />
                       <p>Aersopace & Defences</p>
                     </div>
                   </div>
@@ -35,7 +35,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/Automotive.avif" alt="markets" />
+                      <img src="img/m2.avif" alt="markets" />
                       <p>Automotive Manufacturing</p>
                     </div>
                   </div>
@@ -44,7 +44,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/Education & Learning.avif" alt="markets" />
+                      <img src="img/m3.avif" alt="markets" />
                       <p>Education & Learning</p>
                     </div>
                   </div>
@@ -53,7 +53,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/infrastructure and Energy.avif" alt="markets" />
+                      <img src="img/m4.avif" alt="markets" />
                       <p>Infrastructure & Energy</p>
                     </div>
                   </div>
@@ -62,7 +62,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/Life Sciences & Healthcare.avif" alt="markets" />
+                      <img src="img/m5.avif" alt="markets" />
                       <p>Healthcare & Life Sciences</p>
                     </div>
                   </div>
@@ -71,7 +71,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/Industrial Manufacturing.avif" alt="markets" />
+                      <img src="img/m6.avif" alt="markets" />
                       <p>Industrial Manufacturing</p>
                     </div>
                   </div>
@@ -80,7 +80,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/Real estate black.avif" alt="markets" />
+                      <img src="img/m7.avif" alt="markets" />
                       <p>Real Estate Development</p>
                     </div>
                   </div>
@@ -89,7 +89,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/TMT.avif" alt="markets" />
+                      <img src="img/m8.avif" alt="markets" />
                       <p>Telecom, Media & Tech</p>
                     </div>
                   </div>
@@ -98,7 +98,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/Sustainability black.avif" alt="markets" />
+                      <img src="img/m9.avif" alt="markets" />
                       <p>Environment & Sustainability</p>
                     </div>
                   </div>
@@ -113,5 +113,6 @@
       </div>
     </div>
 
+   
 
 <?php include 'footer.php'; ?>
