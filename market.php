@@ -1,5 +1,6 @@
-<?php include 'header.php'; ?>
 
+
+    <!-- Service Start[Same as Practice/Service] -->
     <div class="service">
       <div class="container">
         <div class="section-header">
@@ -113,5 +114,4 @@
       </div>
     </div>
 
-
-<?php include 'footer.php'; ?>
+   

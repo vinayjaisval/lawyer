@@ -117,7 +117,7 @@ include 'header.php';
                     <p>
                         AnantLaw leaders are functional experts in their fields & have been recognised amongst the top 50 Lawyers in Asia.
                     </p>
-                    <a class="btn" href="">Learn More</a>
+                    <!-- <a class="btn" href="">Learn More</a> -->
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -130,7 +130,7 @@ include 'header.php';
                     <p>
                        We know very well that old ways don't open new doors. Our work has been recognised with over 30 awards & rankings.
                     </p>
-                    <a class="btn" href="">Learn More</a>
+                    <!-- <a class="btn" href="">Learn More</a> -->
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -143,7 +143,7 @@ include 'header.php';
                     <p>
                        Our team has positively contributed on balance sheet and profits of companies in excess of 50billion US$
                     </p>
-                    <a class="btn" href="">Learn More</a>
+                    <!-- <a class="btn" href="">Learn More</a> -->
                 </div>
             </div>
             <!-- <div class="col-lg-4 col-md-6">
