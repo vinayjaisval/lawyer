@@ -82,7 +82,14 @@
                             <a href="awards.php" class="nav-item nav-link">Awards</a>
                             <a href="leadership.php" class="nav-item nav-link">Leadership</a>
 
-                            <a href="engage.php" class="nav-item nav-link">Engage</a>
+                        <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                            <div class="navbar-nav mr-auto">
+                                <a href="index.php" class="nav-item nav-link active">Home</a>
+                                <!-- <a href="about.html" class="nav-item nav-link">About</a> -->
+                                <a href="practice.php" class="nav-item nav-link">Practice</a>
+                                <a href="market.php" class="nav-item nav-link">Market</a>
+                                <!-- <a href="team.html" class="nav-item nav-link">Attorneys</a> -->
+                                <a href="briefing.php" class="nav-item nav-link">Briefings</a>
 
 
 

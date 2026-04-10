@@ -102,35 +102,35 @@
 
     <!-- Page Header Start -->
     <!-- <div class="page-header">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <h2>Practices Areas</h2>
-          </div>
-          <div class="col-12">
-            <a href="">Home</a>
-            <a href="">Practices Areas</a>
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <h2>Practices Areas</h2>
+            </div>
+            <div class="col-12">
+              <a href="">Home</a>
+              <a href="">Market</a>
+            </div>
           </div>
         </div>
-      </div>
-    </div> -->
+      </div> -->
     <!-- Page Header End -->
 
-    <!-- Service Start -->
+    <!-- Service Start[Same as Practice/Service] -->
     <div class="service">
       <div class="container">
         <div class="section-header">
-          <h2>Our Practices Areas</h2>
+          <h2>Markets</h2>
         </div>
         <div class="row align-items-start">
 
           <div class="col-lg-3 pr-lg-5">
             <div class="section-content-left">
-              <h1 class="practice-title">Practice Areas</h1>
+              <h1 class="practice-title">Key Markets</h1>
               <p class="practice-description">
-                We provide clear, concise and practical advice with time bound deliverables to support our clients'
-                objectives. Our pursuit of knowledge, drive to achieve legal excellence and domain expertise across
-                practice areas enables us to deliver innovative legal solutions.
+                The legal landscape can be complex and daunting, but our commitment extends to providing clarity.
+                Clients are not left to navigate the maze alone; they are guided with transparency, ensuring they grasp
+                the intricacies of their legal journey across our key markets.
               </p>
             </div>
           </div>
@@ -143,8 +143,8 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/E1 Image.avif" alt="practice" />
-                      <p>Antitrust & Competition</p>
+                      <img src="img/Aerospace & Defence.avif" alt="markets" />
+                      <p>Aersopace & Defences</p>
                     </div>
                   </div>
                 </div>
@@ -152,8 +152,8 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/E2 Image.avif" alt="practice" />
-                      <p>Corporate & Commercial</p>
+                      <img src="img/Automotive.avif" alt="markets" />
+                      <p>Automotive Manufacturing</p>
                     </div>
                   </div>
                 </div>
@@ -161,8 +161,8 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/E3 Image.avif" alt="practice" />
-                      <p>Data Privacy & Protection</p>
+                      <img src="img/Education & Learning.avif" alt="markets" />
+                      <p>Education & Learning</p>
                     </div>
                   </div>
                 </div>
@@ -170,8 +170,8 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/E4 Image.avif" alt="practice" />
-                      <p>Disputes & Litigation</p>
+                      <img src="img/infrastructure and Energy.avif" alt="markets" />
+                      <p>Infrastructure & Energy</p>
                     </div>
                   </div>
                 </div>
@@ -179,44 +179,44 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/E5 Image.avif" alt="practice" />
+                      <img src="img/Life Sciences & Healthcare.avif" alt="markets" />
+                      <p>Healthcare & Life Sciences</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-4 p-2">
+                  <div class="service-item">
+                    <div class="service-icon">
+                      <img src="img/Industrial Manufacturing.avif" alt="markets" />
+                      <p>Industrial Manufacturing</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-4 p-2">
+                  <div class="service-item">
+                    <div class="service-icon">
+                      <img src="img/Real estate black.avif" alt="markets" />
+                      <p>Real Estate Development</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-4 p-2">
+                  <div class="service-item">
+                    <div class="service-icon">
+                      <img src="img/TMT.avif" alt="markets" />
+                      <p>Telecom, Media & Tech</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-4 p-2">
+                  <div class="service-item">
+                    <div class="service-icon">
+                      <img src="img/Sustainability black.avif" alt="markets" />
                       <p>Environment & Sustainability</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-4 p-2">
-                  <div class="service-item">
-                    <div class="service-icon">
-                      <img src="img/E6 Image.avif" alt="practice" />
-                      <p>Intellectual Property</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-4 p-2">
-                  <div class="service-item">
-                    <div class="service-icon">
-                      <img src="img/E7 Image.avif" alt="practice" />
-                      <p>International Trade & WTO</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-4 p-2">
-                  <div class="service-item">
-                    <div class="service-icon">
-                      <img src="img/E8 Image.avif" alt="practice" />
-                      <p>Policy & Regulatory</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-4 p-2">
-                  <div class="service-item">
-                    <div class="service-icon">
-                      <img src="img/E8 Image.avif" alt="practice" />
-                      <p>Tech, Media & Telecom</p>
                     </div>
                   </div>
                 </div>
@@ -234,63 +234,60 @@
 
     <!-- Feature Start -->
     <!-- <div class="feature">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-7">
-            <div class="section-header">
-              <h2>Why Choose Us</h2>
-            </div>
-            <div class="row align-items-center feature-item">
-              <div class="col-5">
-                <div class="feature-icon">
-                  <i class="fa fa-gavel"></i>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-7">
+              <div class="section-header">
+                <h2>Why Choose Us</h2>
+              </div>
+              <div class="row align-items-center feature-item">
+                <div class="col-5">
+                  <div class="feature-icon">
+                    <i class="fa fa-gavel"></i>
+                  </div>
+                </div>
+                <div class="col-7">
+                  <h3>Clarity in Complexity</h3>
+                  <p>
+                   The legal landscape can be complex and daunting, but our approach focuses on simplifying challenges and providing clear, understandable guidance to our clients.
+                  </p>
                 </div>
               </div>
-              <div class="col-7">
-                <h3>Best law practices</h3>
-                <p>
-                  We provide clear, concise, and practical advice tailored to our clients' objectives, ensuring
-                  high-quality legal support with time-bound deliverables.
-                </p>
-              </div>
-            </div>
-            <div class="row align-items-center feature-item">
-              <div class="col-5">
-                <div class="feature-icon">
-                  <i class="fa fa-balance-scale"></i>
+              <div class="row align-items-center feature-item">
+                <div class="col-5">
+                  <div class="feature-icon">
+                    <i class="fa fa-balance-scale"></i>
+                  </div>
+                </div>
+                <div class="col-7">
+                  <h3>Guided Legal Journey</h3>
+                  <p>
+                   Clients are never left to navigate the legal maze alone; we ensure continuous support and direction throughout every stage of their legal process.
+                  </p>
                 </div>
               </div>
-              <div class="col-7">
-                <h3>Efficiency & Trust</h3>
-                <p>
-                  Our commitment to timely execution and transparent processes builds strong client trust while
-                  maintaining efficiency in every legal engagement.
-                </p>
-              </div>
-            </div>
-            <div class="row align-items-center feature-item">
-              <div class="col-5">
-                <div class="feature-icon">
-                  <i class="far fa-smile"></i>
+              <div class="row align-items-center feature-item">
+                <div class="col-5">
+                  <div class="feature-icon">
+                    <i class="far fa-smile"></i>
+                  </div>
+                </div>
+                <div class="col-7">
+                  <h3>Transparency & Understanding</h3>
+                  <p>
+                   We prioritize transparency, helping clients fully grasp the intricacies of their legal journey across our key markets with confidence and clarity.
+                  </p>
                 </div>
               </div>
-              <div class="col-7">
-                <h3>Results you deserve</h3>
-                <p>
-                  Driven by deep domain expertise and a pursuit of legal excellence, we deliver innovative solutions
-                  that achieve impactful and reliable results.
-                </p>
-              </div>
             </div>
-          </div>
-          <div class="col-md-5">
-            <div class="feature-img">
-              <img src="img/feature.jpg" alt="Feature" />
+            <div class="col-md-5">
+              <div class="feature-img">
+                <img src="img/feature.jpg" alt="Feature" />
+              </div>
             </div>
           </div>
         </div>
-      </div>
-    </div> -->
+      </div> -->
     <!-- Feature End -->
 
     <!-- Newsletter Start -->
