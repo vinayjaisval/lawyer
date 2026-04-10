@@ -1,4 +1,5 @@
-  <!-- Newsletter Start -->
+
+<!-- Newsletter Start -->
             <div class="newsletter">
                 <div class="container">
                     <div class="section-header">

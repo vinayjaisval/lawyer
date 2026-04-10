@@ -81,6 +81,7 @@
                             <a href="Key-markets.php" class="nav-item nav-link">Markets</a>
                             <a href="awards.php" class="nav-item nav-link">Awards</a>
                             <a href="leadership.php" class="nav-item nav-link">Leadership</a>
+                            <!-- <a href="contact.php" class="nav-item nav-link">Contact Us</a> -->
 
                             <a href="engage.php" class="nav-item nav-link">Engage</a>
 
@@ -89,7 +90,7 @@
 
 
 
-                            <a href="portfolio.html" class="nav-item nav-link">Careers</a>
+                            <a href="portfolio.php" class="nav-item nav-link">Careers</a>
                             <!-- <div class="nav-item dropdown">
                                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                                     <div class="dropdown-menu">
@@ -97,7 +98,7 @@
                                         <a href="single.html" class="dropdown-item">Single Page</a>
                                     </div>
                                 </div> -->
-                            <a href="contact.html" class="nav-item nav-link">Search</a>
+                            <a href="contact.php" class="nav-item nav-link">Search</a>
                             <a href="https://www.linkedin.com/company/anantlaw" class="nav-item nav-link" target="_blank">LinkedIn</a>
 
                         </div>

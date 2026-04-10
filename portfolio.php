@@ -106,7 +106,7 @@
 
 
             <!-- Newsletter Start -->
-            <div class="newsletter">
+            <!-- <div class="newsletter">
                 <div class="container">
                     <div class="section-header">
                         <h2>Subscribe Our Newsletter</h2>
@@ -116,6 +116,7 @@
                         <button class="btn">Submit</button>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Newsletter End -->
 
+ <?php include 'footer.php'; ?>
