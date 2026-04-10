@@ -654,78 +654,105 @@ a:focus {
 /*******************************/
 /********* Service CSS *********/
 /*******************************/
+.practice-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 20px;
+}
+
+.practice-description {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+
 .service {
-    position: relative;
-    width: 100%;
-    padding: 45px 0 15px 0;
+  padding: 50px 0;
+  background: #ffffff;
 }
 
-.service .service-item {
-    position: relative;
-    width: 100%;
+.col-lg-4 {
+  margin-bottom: 20px;
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.section-header h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 38px;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.service-item {
+   background: #f9f7f2;
+    border: 1px solid #e0dcd0;
+    border-radius: 10px;
+    padding: 20px 10px;
     text-align: center;
-    background: #121518;
-    margin-bottom: 30px;
-}
-
-.service .service-icon {
-    height: 200px;
-    position: relative;
+    margin-bottom: 15px; 
     display: flex;
+    flex-direction: column;
     align-items: center;
+    min-height: 100px; 
     justify-content: center;
-    background: #000000;
 }
 
-.service .service-icon i {
-    width: 100px;
-    height: 100px;
-    padding: 20px 0;
-    text-align: center;
-    font-size: 60px;
-    color: #aa9166;
-    background: #121518;
-    transition: .5s;
+.service-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
+  background: #ffffff;
 }
 
-.service .service-item:hover .service-icon i {
-    margin-top: -15px;
+.service-icon {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
 }
 
-.service .service-item h3 {
-    margin: 0;
-    padding: 25px 15px 15px 15px;
-    font-size: 30px;
-    font-weight: 600;
-    color: #aa9166;
+.service-icon img {
+   width: 60px;
+    height: 60px;
+    margin-bottom: 15px;
+    display: block;
 }
 
-.service .service-item p {
-    margin: 0;
-    color: #999999;
-    padding: 0 25px 25px 25px;
+.service-item p {
+    font-family: 'EB Garamond', serif;
     font-size: 18px;
+    font-style: italic;
+    font-weight: 200;
+    color: #1a1a1a;
+    min-height: 10px;
+    margin-bottom: 15px;
 }
 
-.service .service-item a.btn {
-    position: relative;
-    margin-bottom: 30px;
-    padding: 10px 20px;
-    font-size: 14px;
-    font-weight: 500;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    color: #aa9166;
-    border: 2px solid #aa9166;
-    border-radius: 0;
-    background: #121518;
-    transition: .3s;
+.service-item .btn {
+  display: inline-block;
+  padding: 10px 25px;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #333333;
+  border: 1px solid #333333;
+  border-radius: 0;
+  transition: all 0.3s ease;
 }
 
-.service .service-item:hover a.btn {
-    color: #121518;
-    background: #aa9166;
+.service-item .btn:hover {
+  background: #333333;
+  color: #ffffff;
 }
+
 
 
 /*******************************/
