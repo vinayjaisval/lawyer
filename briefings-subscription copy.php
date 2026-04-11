@@ -36,15 +36,15 @@
               </li>
 
               <li class="nav-item">
-                <a class="nav-link"
-                  href="briefings-contact.php">
+                <a class="nav-link">
+                  <!-- href="https://www.anantlaw.com/engage/contact" -->
                   Contact →
                 </a>
               </li>
 
               <li class="nav-item">
-                <a class="nav-link"
-                  href="briefings-talent-pool.php">
+                <a class="nav-link">
+                  <!-- href="https://www.anantlaw.com/engage/talent-pool" -->
                   Apply →
                 </a>
               </li>
@@ -62,7 +62,7 @@
     <div class="container">
 
       <!-- Main Content -->
-      <div class="row align-items-start">
+      <div class="row align-items-center">
 
         <!-- Left Text -->
         <div class="col-lg-5 mb-4 mb-lg-0">
@@ -92,7 +92,7 @@
                 </div>
 
                 <!-- Button -->
-                <div class="col-12 d-flex justify-content-end align-items-start mt-4">
+                <div class="col-12 d-flex justify-content-end align-items-start ">
                   <button class="btn next-btn bg-dark text-white ">Next</button>
                 </div>
 

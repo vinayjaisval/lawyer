@@ -96,16 +96,44 @@
 <div class="about">
     <div class="container">
         <div class="row align-items-center">
-
-            <!-- Left Content -->
+            <!-- LEFT SIDE CONTENT -->
             <div class="col-lg-7 col-md-6">
-                <div class="section-header">
-                    <h2>
-
-                        Awards & Rankings</h2>
+                <div class="custom-left-content">
+                    <p class="custom-link">
+                        <a href="#" class="view-link">View all services</a>
+                    </p>
+                    <h1 class="custom-heading">
+                      Disputes & Litigation
+                    </h1>
+                    <p class="custom-text">
+                        RELATED PRACTICE AREAS
+                    </p>
+                    <div class="practice-area">
+                        <a href="corporate-commercial.php" class="practice-label">
+                            Antitrust & Competition
+                        </a>
+                    </div>
+                    <div class="practice-area">
+                        <a href="corporate-commercial.php" class="practice-label">
+                           Corporate & Commercial
+                        </a>
+                    </div>
+                    <div class="practice-area">
+                        <a href="corporate-commercial.php" class="practice-label">
+                            Policy & Regultory
+                        </a>
+                    </div>
+                    <div class="practice-area">
+                        <a href="corporate-commercial.php" class="practice-label">
+                            International Trade & WTO
+                        </a>
+                    </div>
+                    <div class="practice-area">
+                        <a href="corporate-commercial.php" class="practice-label">
+                            Environment & Sustainability
+                        </a>
+                    </div>
                 </div>
-                <p>AnantLaw provides innovative legal advise to clients across industries that has won us various awards and rankings from leading international agencies.</p>
-
             </div>
 
             <!-- Right Slider -->
@@ -144,7 +172,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b3.avif">
+                                    <img src="img/b8.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -170,7 +198,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b4.avif">
+                                    <img src="img/b9.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -196,7 +224,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b12.avif">
+                                    <img src="img/b10.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -222,7 +250,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b22.avif">
+                                    <img src="img/b60.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -248,7 +276,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b23.avif">
+                                    <img src="img/b59.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -274,7 +302,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b24.avif">
+                                    <img src="img/b18.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -300,7 +328,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b25.avif">
+                                    <img src="img/b19.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -326,7 +354,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b26.avif">
+                                    <img src="img/b20.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -352,7 +380,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b29.avif">
+                                    <img src="img/b21.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -378,7 +406,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b32.avif">
+                                    <img src="img/b30.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -404,7 +432,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b43.avif">
+                                    <img src="img/b33.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -437,7 +465,6 @@
                 </div>
 
             </div>
-
         </div>
     </div>
 </div>
