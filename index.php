@@ -3,62 +3,62 @@ include 'header.php';
 ?>
 <style>
     .video-section {
-    position: relative;
-    height: 100vh;
-    overflow: hidden;
-}
+        position: relative;
+        height: 100vh;
+        overflow: hidden;
+    }
 
-.bg-video {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    transform: translate(-50%, -50%);
-    object-fit: cover;
-    z-index: 1;
-}
+    .bg-video {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        min-width: 100%;
+        min-height: 100%;
+        transform: translate(-50%, -50%);
+        object-fit: cover;
+        z-index: 1;
+    }
 
-/* Overlay (dark effect) */
-.video-section::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(0,0,0,0.5);
-    z-index: 2;
-}
+    /* Overlay (dark effect) */
+    .video-section::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 2;
+    }
 
-/* Content */
-.video-content {
-    position: relative;
-    z-index: 3;
-    color: #fff;
-    text-align: center;
-    top: 50%;
-    transform: translateY(-50%);
-}
+    /* Content */
+    .video-content {
+        position: relative;
+        z-index: 3;
+        color: #fff;
+        text-align: center;
+        top: 50%;
+        transform: translateY(-50%);
+    }
 
-.video-content h1 {
-    color: #fff;
-    font-size: 50px;
-    margin-bottom: 10px;
-}
+    .video-content h1 {
+        color: #fff;
+        font-size: 50px;
+        margin-bottom: 10px;
+    }
 
-.video-content p {
-    font-size: 18px;
-    margin-bottom: 20px;
-}
+    .video-content p {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
 
-.btn {
-    padding: 10px 25px;
-    background: #fff;
-    color: #000;
-    text-decoration: none;
-    border-radius: 5px;
-}
+    .btn {
+        padding: 10px 25px;
+        background: #fff;
+        color: #000;
+        text-decoration: none;
+        border-radius: 5px;
+    }
 </style>
 <!-- Carousel Start -->
 <div id="carousel" class="carousel slide" data-ride="carousel">
@@ -142,12 +142,12 @@ include 'header.php';
                 <div class="section-header">
                     <h2>AnantLaw delivers</h2>
                     <p>First-in class, best-in class
-legal outcomes for clients,
-reshaping jurisprudence.</p>
+                        legal outcomes for clients,
+                        reshaping jurisprudence.</p>
                 </div>
                 <div class="about-text">
                     <p>
-                       Innovation is at the core of our DNA, driving the firm's mission to redefine the legal landscape. We aren’t content with the status quo and are committed to push boundaries, embrace new possibilities to drive positive change. One such example is the first ever judgement in India that led to reduction of penalty on the basis of relevant turnover & saved our client >100million US$. It is now the most cited judgement in India's competition law & was awarded 'Deal of the Year' by Indian Business Law.
+                        Innovation is at the core of our DNA, driving the firm's mission to redefine the legal landscape. We aren’t content with the status quo and are committed to push boundaries, embrace new possibilities to drive positive change. One such example is the first ever judgement in India that led to reduction of penalty on the basis of relevant turnover & saved our client >100million US$. It is now the most cited judgement in India's competition law & was awarded 'Deal of the Year' by Indian Business Law.
                     </p>
                     <p>
                         Our mission is not just to act as trusted advisors but to partner with clients in their growth journey. When clients face daunting challenges, AnantLaw becomes their ally, offering guidance, support, and relentless pursuit of excellence. For example, we represented an US based company in an antidumping investigation by the United States Department of Commerce (US DoC) on quartz surface products to successfully reduce antidumping duties from 161.56% to 3.19%.
@@ -169,19 +169,19 @@ reshaping jurisprudence.</p>
     <div class="video-content">
         <h1>
 
-Explore AnantLaw practice areas
+            Explore AnantLaw practice areas
 
-"We engineer legal solutions
+            "We engineer legal solutions
 
-that are adept at charting
+            that are adept at charting
 
-our clients growth curve"</h1>
-<p>Anu Monga, Partner</p>
+            our clients growth curve"</h1>
+        <p>Anu Monga, Partner</p>
         <a href="anu-monga.php">
 
-        <p style="color: #fff;">Explore AnantLaw practice areas</p>
+            <p style="color: #fff;">Explore AnantLaw practice areas</p>
         </a>
-      
+
     </div>
 </section>
 
@@ -214,7 +214,7 @@ our clients growth curve"</h1>
                     <h3>Proven Track Record
                     </h3>
                     <p>
-                       We know very well that old ways don't open new doors. Our work has been recognised with over 30 awards & rankings.
+                        We know very well that old ways don't open new doors. Our work has been recognised with over 30 awards & rankings.
                     </p>
                     <!-- <a class="btn" href="">Learn More</a> -->
                 </div>
@@ -227,7 +227,7 @@ our clients growth curve"</h1>
                     <h3>Financial Impact
                     </h3>
                     <p>
-                       Our team has positively contributed on balance sheet and profits of companies in excess of 50billion US$
+                        Our team has positively contributed on balance sheet and profits of companies in excess of 50billion US$
                     </p>
                     <!-- <a class="btn" href="">Learn More</a> -->
                 </div>

@@ -35,7 +35,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/E2 Image.avif" alt="practice" />
+                      <img src="img/E2 Image.avif.mp4" alt="practice" />
                       <p>Corporate & Commercial</p>
                     </div>
                   </div>
@@ -44,7 +44,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/E3 Image.avif" alt="practice" />
+                      <img src="img/E3 Image.avif.mp4" alt="practice" />
                       <p>Data Privacy & Protection</p>
                     </div>
                   </div>
@@ -53,7 +53,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/E4 Image.avif" alt="practice" />
+                      <img src="img/E4 Image.avif.mp4" alt="practice" />
                       <p>Disputes & Litigation</p>
                     </div>
                   </div>
@@ -62,7 +62,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/E5 Image.avif" alt="practice" />
+                      <img src="img/E5 Image.avif.mp4" alt="practice" />
                       <p>Environment & Sustainability</p>
                     </div>
                   </div>
@@ -71,7 +71,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/E6 Image.avif" alt="practice" />
+                      <img src="img/E6 Image.avif.mp4" alt="practice" />
                       <p>Intellectual Property</p>
                     </div>
                   </div>
@@ -80,7 +80,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/E7 Image.avif" alt="practice" />
+                      <img src="img/E7 Image.avif.mp4" alt="practice" />
                       <p>International Trade & WTO</p>
                     </div>
                   </div>
@@ -89,7 +89,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/E8 Image.avif" alt="practice" />
+                      <img src="img/E8 Image.avif.mp4" alt="practice" />
                       <p>Policy & Regulatory</p>
                     </div>
                   </div>
@@ -98,7 +98,7 @@
                 <div class="col-md-4 p-2">
                   <div class="service-item">
                     <div class="service-icon">
-                      <img src="img/E8 Image.avif" alt="practice" />
+                      <img src="img/E9 Image.avif.mp4" alt="practice" />
                       <p>Tech, Media & Telecom</p>
                     </div>
                   </div>
