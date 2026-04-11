@@ -90,7 +90,7 @@
 
 
 
-                            <a href="portfolio.php" class="nav-item nav-link">Careers</a>
+                            <a href="careers.php" class="nav-item nav-link">Careers</a>
                             <!-- <div class="nav-item dropdown">
                                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                                     <div class="dropdown-menu">
