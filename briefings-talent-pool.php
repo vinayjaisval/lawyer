@@ -64,7 +64,7 @@
       <div class="row align-items-center">
 
         <!-- Left Text -->
-        <div class="col-lg-5 mb-4 mb-lg-0">
+        <div class="col-lg-5 mb-4 mb-lg-0" style="margin-top: -386px;">
           <p class="briefing-text text-dark">
             We are constantly on the look-out for high performing, value driven lawyers. Accountability, collaboration, integrity & appetite to learn are foundational values for AnantLaw. Our vacancies are available across practice areas. Primary location for all roles is Delhi. All interested candidates must fill the AnantLaw Talent Pool form.  
           </p>
