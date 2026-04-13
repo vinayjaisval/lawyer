@@ -93,7 +93,7 @@
                   <div class="service-item">
                     <div class="service-icon">
                       <a href="international-trade-wto.php">
-                      <img src="img/E7 Image.avif" alt="practice" />
+                      <img src="img/E7 Image.avif.mp4" alt="practice" />
                       </a>
                       <p>International Trade & WTO</p>
                     </div>
@@ -104,7 +104,7 @@
                   <div class="service-item">
                     <div class="service-icon">
                       <a href="policy-regulatory.php">
-                      <img src="img/E8 Image.avif" alt="practice" />
+                      <img src="img/E8 Image.avif.mp4" alt="practice" />
                       </a>
                       <p>Policy & Regulatory</p>
                     </div>
