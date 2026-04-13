@@ -17,7 +17,7 @@
     /* Title */
     .blog-title {
         font-size: 32px;
-        font-weight: 700;
+        font-weight: 500;
     }
 
     /* Author Section */
@@ -150,7 +150,8 @@
             </div>
         </div>
         <!-- Title -->
-        <h1 class="blog-title">AnantLaw bags the Rising Law Firm of the Year Award at Legal Era 2024 Awards Ceremony</h1>
+        <h1 class="blog-title" style="font-family: 'Segoe UI', sans-serif; font-style: normal !important;">
+            AnantLaw bags the Rising Law Firm of the Year Award at Legal Era 2024 Awards Ceremony</h1>
         <!-- Hero Image -->
         <div class="blog-img my-4">
             <img src="img/b2.avif" alt="blog">
