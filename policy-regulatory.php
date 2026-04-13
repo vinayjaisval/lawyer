@@ -109,27 +109,27 @@
                         RELATED PRACTICE AREAS
                     </p>
                     <div class="practice-area">
-                        <a href="corporate-commercial.php" class="practice-label">
+                        <a href="antitrust-competition.php" class="practice-label">
                             Antitrust & Competition
                         </a>
                     </div>
                     <div class="practice-area">
-                        <a href="corporate-commercial.php" class="practice-label">
+                        <a href="tech-media-telecom.php" class="practice-label">
                           Tech, Media & Telecom
                         </a>
                     </div>
                     <div class="practice-area">
-                        <a href="corporate-commercial.php" class="practice-label">
+                        <a href="disputes-litigation.php" class="practice-label">
                             Disputes & Litigation
                         </a>
                     </div>
                     <div class="practice-area">
-                        <a href="corporate-commercial.php" class="practice-label">
+                        <a href="environment-sustainability.php" class="practice-label">
                             Environment & Sustainability
                         </a>
                     </div>
                     <div class="practice-area">
-                        <a href="corporate-commercial.php" class="practice-label">
+                        <a href="international-trade-wto.php" class="practice-label">
                             International Trade & WTO
                         </a>
                     </div>

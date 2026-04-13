@@ -109,7 +109,7 @@
                         RELATED PRACTICE AREAS
                     </p>
                     <div class="practice-area">
-                        <a href="corporate-commercial.php" class="practice-label">
+                        <a href="antitrust-competition.php" class="practice-label">
                             Antitrust & Competition
                         </a>
                     </div>
@@ -119,17 +119,17 @@
                         </a>
                     </div>
                     <div class="practice-area">
-                        <a href="corporate-commercial.php" class="practice-label">
+                        <a href="policy-regulatory.php" class="practice-label">
                             Policy & Regultory
                         </a>
                     </div>
                     <div class="practice-area">
-                        <a href="corporate-commercial.php" class="practice-label">
+                        <a href="international-trade-wto.php" class="practice-label">
                             International Trade & WTO
                         </a>
                     </div>
                     <div class="practice-area">
-                        <a href="corporate-commercial.php" class="practice-label">
+                        <a href="environment-sustainability.php" class="practice-label">
                             Environment & Sustainability
                         </a>
                     </div>

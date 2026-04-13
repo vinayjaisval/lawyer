@@ -117,23 +117,23 @@
                         </a>
                     </div>
                     <div class="practice-area">
-                        <a href="corporate-commercial.php" class="practice-label">
+                        <a href="disputes-litigation.php" class="practice-label">
                             Disputes & Litigation
                         </a>
                     </div>
                     <div class="practice-area">
-                        <a href="corporate-commercial.php" class="practice-label">
+                        <a href="tech-media-telecom.php" class="practice-label">
                             Tech, Media & Telecom
                         </a>
                     </div>
                     <div class="practice-area">
-                        <a href="corporate-commercial.php" class="practice-label">
-                            Tech, Media & Telecom
-                        </a>
-                    </div>
-                    <div class="practice-area">
-                        <a href="corporate-commercial.php" class="practice-label">
+                        <a href="policy-regulatory.php" class="practice-label">
                             Policy & Regultory
+                        </a>
+                    </div>
+                    <div class="practice-area">
+                        <a href="international-trade-wto.php" class="practice-label">
+                            International Trade & WTO
                         </a>
                     </div>
                 </div>
