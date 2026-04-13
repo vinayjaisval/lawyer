@@ -17,7 +17,7 @@
     /* Title */
     .blog-title {
         font-size: 32px;
-        font-weight: 700;
+        font-weight: 500;
     }
 
     /* Author Section */
@@ -150,7 +150,8 @@
             </div>
         </div>
         <!-- Title -->
-        <h1 class="blog-title">With over 1trillion$ of infrastructure projects at stake, IBLJ recognises Cement Cartel Case as Deal of the Year - 2023</h1>
+        <h1 class="blog-title" style="font-family: 'Segoe UI', sans-serif; font-style: normal !important;">
+            With over 1trillion$ of infrastructure projects at stake, IBLJ recognises Cement Cartel Case as Deal of the Year - 2023</h1>
         <!-- Hero Image -->
         <div class="blog-img my-4">
             <img src="img/b3.avif" alt="blog">
@@ -189,7 +190,7 @@
                     <div class="col-md-12">
                         <div class="card p-4 shadow-sm h-100 bg-light">
                             <h5 class="fw-bold mb-2">
-                                <a href="#" target="_blank" class="text-decoration-none text-primary">
+                                <a href="#" target="_blank" class="text-decoration-none text-primary" style="font-family: 'Segoe UI', sans-serif; font-style: normal !important;">
                                     Rahul Goel
                                 </a>
                             </h5>
@@ -215,7 +216,7 @@
                     <div class="col-md-12">
                         <div class="card p-4 shadow-sm h-100 bg-light">
                             <h5 class="fw-bold mb-2">
-                                <a href="anu-monga.php" target="_blank" class="text-decoration-none text-primary">
+                                <a href="anu-monga.php" target="_blank" class="text-decoration-none text-primary" style="font-family: 'Segoe UI', sans-serif; font-style: normal !important;">
                                     Anu Monga
                                 </a>
                             </h5>

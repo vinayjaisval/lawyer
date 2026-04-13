@@ -20,7 +20,7 @@
                     Delhi High Court upholds natural justice
                     </a>
                 </p>
-                <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
+                <a class="btn" href="single.php">Read More <i class="fa fa-angle-right"></i></a>
             </div>
             <div class="col-lg-4 col-md-6 blog-item">
                 <img src="img/b2.avif" alt="Blog">
@@ -36,7 +36,7 @@
                 <p><a href="single2.php">
                     AnantLaw bags the Rising Law Firm of the Year Award at Legal Era 2024 Awards Ceremony
                 </a></p>
-                <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
+                <a class="btn" href="single2.php">Read More <i class="fa fa-angle-right"></i></a>
             </div>
             <div class="col-lg-4 col-md-6 blog-item">
                 <img src="img/b3.avif" alt="Blog">
@@ -51,7 +51,7 @@
                 <p><a href="single3.php">
                     With over 1trillion$ of infrastructure projects at stake, IBLJ recognises Cement Cartel Case as Deal of the Year - 2023
                 </a></p>
-                <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
+                <a class="btn" href="single3.php">Read More <i class="fa fa-angle-right"></i></a>
             </div>
             <div class="col-lg-4 col-md-6 blog-item">
                 <img src="img/b4.avif" alt="Blog">
@@ -64,10 +64,10 @@
 
                 </div>
                 <h3>Education Law</h3>
-                <p>
+                <p><a href="single4.php">
                     Rahul Goel recognised in Asia's Super 50 TMT lawyers for 4 years in a row
-                </p>
-                <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
+                </a></p>
+                <a class="btn" href="single4.php">Read More <i class="fa fa-angle-right"></i></a>
             </div>
             <div class="col-lg-4 col-md-6 blog-item">
                 <img src="img/b5.avif" alt="Blog">

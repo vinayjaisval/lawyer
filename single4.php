@@ -57,6 +57,19 @@
         font-size: 13px;
     }
 
+    .tag-wrapper a {
+        display: inline-block;
+        margin: 5px 10px 5px 0;
+        padding: 6px 12px;
+        background: #eee;
+        border-radius: 20px;
+        text-decoration: none;
+        font-size: 13px;
+
+        white-space: nowrap;
+        /* 🔥 IMPORTANT: text break nahi hoga */
+    }
+
     /* Share */
     .share-icons i {
         margin-right: 15px;
@@ -128,79 +141,87 @@
 
     <!-- Blog Content -->
     <div class="blog-container">
-
-        <!-- Title -->
-        <!-- <h1 class="blog-title">Delhi High Court upholds natural justice</h1> -->
-
         <!-- Author -->
         <div class="author-box">
             <img src="img/e2.avif" alt="author">
             <div>
-                <strong>Communications</strong><br>
-                <small>Sep 5, 2025 • 2 min read</small>
+                <strong>Partners' Desk</strong><br>
+                <small>Mar 22, 2024 • 1 min read</small>
             </div>
         </div>
         <!-- Title -->
         <h1 class="blog-title" style="font-family: 'Segoe UI', sans-serif; font-style: normal !important;">
-
-            Delhi High Court upholds natural justice</h1>
+            Rahul Goel recognised in Asia's Super 50 TMT lawyers for 4 years in a row</h1>
         <!-- Hero Image -->
         <div class="blog-img my-4">
-            <img src="img/b1.avif" alt="blog">
+            <img src="img/b4.avif" alt="blog">
         </div>
 
         <!-- Content -->
         <div class="blog-content">
             <p>
-                In a significant order, the Hon'ble Delhi High Court directed the Deputy Conservator of Forests (DCF) to pass any order in tree felling cases only after hearing the complainant and after dealing with all submissions of the complainant. Also, DCF has been directed to provide all documents to the complainant and comply with the principles of natural justice.
+                AnantLaw is pleased to announce that Rahul Goel, Partner at our firm has been recognised by ALB's Asia Super 50 TMT Lawyers for the fourth consecutive year.
             </p>
 
             <p>
-                Also, the order passed by the DCF, allowing compounding of tree offence of felling of 3 trees in West Delhi Area, without granting any hearing and documents to the complainant/ petitioner was set-aside. The matter has been remanded back to DCF for fresh adjudication in compliance with principles of natural justice.
+                Rahul's deep subject matter expertise on Tech, Media and Telecom laws, intimate client relationships, cross-practice area competence in disputes, litigation, and competition law and his commitment to enable growth for his clients are some of the things that stood out from over 400 recommendations made by in-house general counsels across 11 jurisdictions in Asia.
             </p>
 
             <p>
-                This is one of the first orders where the order of the DCF has been set-aside for not complying with principles of natural justice and allowing compounding of tree offence without hearing the complainant.
+                In our recent voice of the market, a client shared with us that Rahul's team champions in providing well timed, technically accurate legal updates specific to their areas of interests that very quickly and appropriately translate into actionable intelligence.
             </p>
 
             <p>
-                Earlier, DCF used to approve tree cutting applications without sharing them with complainants. This judgment changes that practice.
+                We would like to thank our trusted clients for bestowing trust upon us to lead complex cross border matters in tech, media and telecom where our team continues to relentlessly help our clients shape tomorrows digital age, today.
             </p>
 
-            <p>
-                The decision may lead to stronger enforcement and criminal prosecution against illegal tree cutting.
-            </p>
+            <hr>
+            <p class="text-primary">Connect with your Super 50 Lawyer</p>
+            <div class="container my-3">
+                <div class="row g-4">
 
-            <p>
-                AnantLaw represented the petitioner/ complainant before the Hon'ble High Court of Delhi [Ram Kumar v DCF & Ors. WP(C) 13534/2024]
-            </p>
-        </div>
+                    <!-- Rahul Goel -->
+                    <div class="col-md-12">
+                        <div class="card p-4 shadow-sm h-100 bg-light">
+                            <h5 class="fw-bold mb-2">
+                                <a href="#" target="_blank" class="text-decoration-none text-primary" style="font-family: 'Segoe UI', sans-serif; font-style: normal !important;">
+                                    Rahul Goel
+                                </a>
+                            </h5>
 
+                            <p class="mb-1">
+                                <strong>Email:</strong>
+                                <a href="" class="text-primary">rahul.goel@anantlaw.com</a>
+                            </p>
 
+                            <p class="mb-1">
+                                <strong>Mobile:</strong>
+                                <a href="">+91 98990 27144</a>
+                            </p>
 
-        <div class="container my-1">
-            <div class="card p-3 shadow-sm d-flex align-items-center flex-row justify-content-between">
-                <div class="d-flex align-items-center gap-3">
-                    <i class="fa fa-file-pdf fa-2x text-danger"></i>
-                    <div>
-                        <h6 class="mb-0" >high_court_order.pdf</h6>
-                        <small class="text-muted">Download PDF • 26KB</small>
+                            <p class="mb-0">
+                                <strong>Connect:</strong>
+                                <a href="https://www.linkedin.com/in/adrahul" target="_blank" class="text-primary">LinkedIn</a>
+                            </p>
+                        </div>
                     </div>
 
+                    <hr>
+                    <p class="mt-4">About Asian Legal Business: Asian Legal Business (ALB) is owned by Thomson Reuters, the world’s leading source of intelligent information for businesses and professionals. With its portfolio of leading titles, online services, law awards and in-house legal summits, ALB provides authoritative and unbiased insights and unmatched networking and business development opportunities to legal professionals throughout the Asia-Pacific and the Middle East regions.
+                    </p>
+
                 </div>
-
-                <!-- Right: Download Button -->
-                <a href="img/high_court_order.pdf" download class="btn btn-outline-dark">
-                    <i class="fa fa-download"></i>
-                </a>
-
             </div>
         </div>
         <!-- Tags -->
         <div class="tags my-2 mt-3">
-            <strong>Tags:</strong>
-            <a href="environment-sustainability.php">Environment</a>
-            <a href="environment-sustainability.php">Sustainability</a>
+            <strong class="d-block mb-2">Tags:</strong>
+
+            <div class="tag-wrapper">
+                <a href="tech-media-telecom.php">Tech, Media & Telecom</a>
+                <a href="disputes-litigation.php">Data Protection & Privacy</a>
+                <a href="#">Rahul Goel</a>
+            </div>
         </div>
 
         <!-- Share -->
@@ -221,27 +242,27 @@
 
             <div class="col-md-4 d-flex">
                 <div class="recent-post">
-                    <img src="img/b2.avif" alt="">
+                    <img src="img/b24.avif" alt="">
                     <p class="recent-post-title mt-2">
-                        AnantLaw bags Rising Law Firm Award
+                        With over 1trillion$ of infrastructure projects at stake, IBLJ recognises Cement Cartel Case as Deal of the Year - 2023
                     </p>
                 </div>
             </div>
 
             <div class="col-md-4 d-flex">
                 <div class="recent-post">
-                    <img src="img/b10.avif" alt="">
+                    <img src="img/b25.avif" alt="">
                     <p class="recent-post-title mt-2">
-                        Supreme Court dismisses cement case
+                        Rahul Goel recognised in Asia's Super 50 TMT lawyers for 4 years in a row
                     </p>
                 </div>
             </div>
 
             <div class="col-md-4 d-flex">
                 <div class="recent-post">
-                    <img src="img/b13.avif" alt="">
+                    <img src="img/b4.avif" alt="">
                     <p class="recent-post-title mt-2">
-                        AI Legal Conference Insights
+                        AnantLaw awarded Competition & Antitrust Firm of the Year 2023 by asialaw
                     </p>
                 </div>
             </div>
