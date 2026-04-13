@@ -194,7 +194,7 @@ include 'header.php';
                 bar for competitors</h2>
         </div>
         <div class="row">
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-4 col-md-6 d-flex">
                 <div class="service-item">
                     <!-- <div class="service-icon">
                         <i class="fa fa-landmark"></i>
@@ -206,7 +206,7 @@ include 'header.php';
                     <!-- <a class="btn" href="">Learn More</a> -->
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-4 col-md-6 d-flex">
                 <div class="service-item">
                     <!-- <div class="service-icon">
                         <i class="fa fa-users"></i>
@@ -219,7 +219,7 @@ include 'header.php';
                     <!-- <a class="btn" href="">Learn More</a> -->
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-4 col-md-6 d-flex">
                 <div class="service-item">
                     <!-- <div class="service-icon">
                         <i class="fa fa-hand-holding-usd"></i>
