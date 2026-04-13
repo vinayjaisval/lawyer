@@ -8,8 +8,8 @@
                             <h2>Case Studies</h2>
                         </div>
                         <div class="col-12">
-                            <a href="">Home</a>
-                            <a href="">Case Studies</a>
+                            <a href="index.php">Home</a>
+                            <a href="portfolio.php">Case Studies</a>
                         </div>
                     </div>
                 </div>

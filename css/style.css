@@ -704,7 +704,7 @@ a:focus {
     margin: 0;
     color: #999999;
     padding: 0 25px 25px 25px;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .service .service-item a.btn {
@@ -2058,9 +2058,12 @@ a:focus {
 
 .custom-left-content {
     text-align: left;
-    margin-left: 40px;
+    /* margin-left: 40px; */
+    
 }
-
+/* .custom-left-content p {
+    max-width: 450px;
+} */
 .custom-heading {
     font-size: 62px;
     font-weight: 700;
