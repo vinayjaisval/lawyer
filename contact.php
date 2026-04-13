@@ -8,8 +8,8 @@
                             <h2>Contact Us</h2>
                         </div>
                         <div class="col-12">
-                            <a href="">Home</a>
-                            <a href="">Contact Us</a>
+                            <a href="index.php">Home</a>
+                            <a href="contact.php">Contact Us</a>
                         </div>
                     </div>
                 </div>
