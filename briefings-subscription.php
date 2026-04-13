@@ -65,7 +65,7 @@
       <div class="row align-items-start">
 
         <!-- Left Text -->
-        <div class="col-lg-5 mb-4 mb-lg-0" style="margin-top: -386px;">
+        <div class="col-lg-5 mb-4 mb-lg-0" >
           <p class="briefing-text text-dark">
             Sign up to our briefings and get a direct feed on legal issues, news,
             recommendations and insights in your inbox. The content is exclusively

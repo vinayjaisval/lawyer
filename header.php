@@ -100,7 +100,7 @@
                                     </div>
                                 </div> -->
                             <a href="contact.php" class="nav-item nav-link">Search</a>
-                            <a href="https://www.linkedin.com/company/anantlaw" class="nav-item nav-link" target="_blank">LinkedIn</a>
+                            <a href="https://in.linkedin.com/company/anantlaw" class="nav-item nav-link" target="_blank">LinkedIn</a>
 
                         </div>
                         <!-- <div class="ml-auto">
