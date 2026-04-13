@@ -66,7 +66,7 @@
       <div class="row align-items-center">
 
         <!-- Left Text -->
-        <div class="col-lg-5 mb-4 mb-lg-0">
+        <div class="col-lg-5 mb-4 mb-lg-0" style="margin-top: -386px;">
           <p class="briefing-text text-dark">
             Thank you for your interest in working with AnantLaw. We are a full service law firm headquartered in Delhi, India. Filling out this form is an ideal approach for clients who prefer to use digital means to contact us about their legal requirements.
           </p>
