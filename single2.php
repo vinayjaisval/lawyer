@@ -57,6 +57,19 @@
         font-size: 13px;
     }
 
+    .tag-wrapper a {
+        display: inline-block;
+        margin: 5px 10px 5px 0;
+        padding: 6px 12px;
+        background: #eee;
+        border-radius: 20px;
+        text-decoration: none;
+        font-size: 13px;
+
+        white-space: nowrap;
+        /* 🔥 IMPORTANT: text break nahi hoga */
+    }
+
     /* Share */
     .share-icons i {
         margin-right: 15px;
@@ -128,49 +141,50 @@
 
     <!-- Blog Content -->
     <div class="blog-container">
-
-        <!-- Title -->
-        <!-- <h1 class="blog-title">Delhi High Court upholds natural justice</h1> -->
-
         <!-- Author -->
         <div class="author-box">
             <img src="img/e2.avif" alt="author">
             <div>
-                <strong>Communications</strong><br>
-                <small>Sep 5, 2025 • 2 min read</small>
+                <strong>Partners' Desk</strong><br>
+                <small>May 7, 2024 • 2 min read</small>
             </div>
         </div>
         <!-- Title -->
-        <h1 class="blog-title">Delhi High Court upholds natural justice</h1>
+        <h1 class="blog-title">AnantLaw bags the Rising Law Firm of the Year Award at Legal Era 2024 Awards Ceremony</h1>
         <!-- Hero Image -->
         <div class="blog-img my-4">
-            <img src="img/b1.avif" alt="blog">
+            <img src="img/b2.avif" alt="blog">
         </div>
 
         <!-- Content -->
         <div class="blog-content">
             <p>
-                In a significant order, the Hon'ble Delhi High Court directed the Deputy Conservator of Forests (DCF) to pass any order in tree felling cases only after hearing the complainant and after dealing with all submissions of the complainant. Also, DCF has been directed to provide all documents to the complainant and comply with the principles of natural justice.
+                AnantLaw is at the forefront of defining the curve for legal landscape in India. We have a well established and proven track record to deliver positive outcomes for clients on the axis of legal innovation, excellence and finesse.
             </p>
 
             <p>
-                Also, the order passed by the DCF, allowing compounding of tree offence of felling of 3 trees in West Delhi Area, without granting any hearing and documents to the complainant/ petitioner was set-aside. The matter has been remanded back to DCF for fresh adjudication in compliance with principles of natural justice.
+                Our journey as a full service law firm started in the year 2020. Since then, AnantLaw has been recognised with over 40 awards. This one in particular is close to us as it emphasis on our firm as a whole, and what we deliver to our clients as a holistic service to cover 'all things legal' when it comes to the Indian Jurisdiction.
             </p>
 
             <p>
-                This is one of the first orders where the order of the DCF has been set-aside for not complying with principles of natural justice and allowing compounding of tree offence without hearing the complainant.
+                Some highlights from our services include exceptional work done by the team in (1) Providing launchpad services to clients overseas and simplifying their journey when planning, and implementing their entry into India (2) Conducting Legal Due Diligence for acquisition targets (3) Facilitating organisations in conducting legal compliances across spectrum of all practices of law (4) Leading the pack in defining the curve for antitrust, competition, data privacy, tech, media and telecom law in the country (5) Helping founders protect their interests in companies they have invested their lives, emotion, and for some their entire careers (6) Participating alongside governments in defining the future of policy landscape, and future of law in India (7) Designing, and implementing litigation strategies that have helped companies save millions of dollars (8) Supporting over 1 trillion USD of infrastructure projects in containing costs due to unfair competition practices (9) Collaborating with Padma Shree Awardee to help citizens of National Capital Region, Delhi, breathe cleaner, healthier, and fresh air (10) Collaborating with national law universities in nurturing young talent.
             </p>
 
             <p>
-                Earlier, DCF used to approve tree cutting applications without sharing them with complainants. This judgment changes that practice.
+                Our curve, and participation in Legal Services Industry has meant that AnantLaw has represented, and delivered newsworthy positive outcomes for clients that have received independent media coverage across national and international news agencies including AajTak, NDTV, Bloomberg, CNBC, Financial Times, Times of India, Hindustan Times amongst others.
             </p>
 
             <p>
-                The decision may lead to stronger enforcement and criminal prosecution against illegal tree cutting.
+                AnantLaw extends gratitude and thankfulness to the Jury of Legal Era Indian Awards 2024 for acknowledging our teams hard work with a well-deserved recognition as 'The Rising Law Firm of the Year - 2024'. Rest assured, we are relentlessly working in the direction of winning many more recognitions in the future.
             </p>
 
             <p>
-                AnantLaw represented the petitioner/ complainant before the Hon'ble High Court of Delhi [Ram Kumar v DCF & Ors. WP(C) 13534/2024]
+                About Legal Era Awards 2024
+
+                13th Annual Legal Era Awards - Indian Legal Awards 2023-24 took place at Taj Palace, Delhi on 4 May 2024. The main objective for the awards was to 'recognise the Extraordinary Talent and Excellence of Our Legal Fraternity'.
+
+
+                Legal Era aimed to set a benchmark by recognising legal finesse, innovation, and accomplishments of Legal Practitioners, In-House Teams, and Law Firms at the 13th Annual Indian Legal Era Awards 2024. The awards saw an unprecedented gathering with participation from the leading stalwarts of the legal industry, advocates, and eminent jurists. This included Rahul Goel, and Anu Monga from the AnantLaw team.
             </p>
         </div>
 
@@ -191,15 +205,27 @@
                 <a href="img/high_court_order.pdf" download class="btn btn-outline-dark">
                     <i class="fa fa-download"></i>
                 </a>
-
             </div>
         </div>
         <!-- Tags -->
         <div class="tags my-2 mt-3">
-            <strong>Tags:</strong>
-            <a href="environment-sustainability.php">Environment</a>
-            <a href="environment-sustainability.php">Sustainability</a>
-        </div>
+    <strong class="d-block mb-2">Tags:</strong>
+
+    <div class="tag-wrapper">
+        <a href="antitrust-competition.php">Antitrust & Competition</a>
+        <a href="disputes-litigation.php">Disputes & Litigation</a>
+        <a href="tech-media-telecom.php">Tech, Media & Telecom</a>
+        <a href="disputes-litigation.php">Data Protection & Privacy</a>
+        <a href="policy-regulatory.php">Policy & Regulatory</a>
+        <a href="environment-sustainability.php">Environment & Sustainability</a>
+        <a href="corporate-commercial.php">Corporate & Commercial</a>
+        <a href="anu-monga.php">Anu Monga</a>
+        <a href="rahul-goel.php">Rahul Goel</a>
+        <a href="international-trade-wto.php">International Trade & WTO</a>
+        <a href="sunil-jain.php">Sunil Jain</a>
+        <a href="intellectual-property-rights.php">Intellectual Property Rights</a>
+    </div>
+</div>
 
         <!-- Share -->
         <div class="share-icons mb-1 mt-3">
@@ -219,27 +245,27 @@
 
             <div class="col-md-4 d-flex">
                 <div class="recent-post">
-                    <img src="img/b2.avif" alt="">
+                    <img src="img/b3.avif" alt="">
                     <p class="recent-post-title mt-2">
-                        AnantLaw bags Rising Law Firm Award
+                       With over 1trillion$ of infrastructure projects at stake, IBLJ recognises Cement Cartel Case as Deal of the Year - 2023
                     </p>
                 </div>
             </div>
 
             <div class="col-md-4 d-flex">
                 <div class="recent-post">
-                    <img src="img/b10.avif" alt="">
+                    <img src="img/b23.avif" alt="">
                     <p class="recent-post-title mt-2">
-                        Supreme Court dismisses cement case
+                        Rahul Goel recognised in Asia's Super 50 TMT lawyers for 4 years in a row
                     </p>
                 </div>
             </div>
 
             <div class="col-md-4 d-flex">
                 <div class="recent-post">
-                    <img src="img/b13.avif" alt="">
+                    <img src="img/b24.avif" alt="">
                     <p class="recent-post-title mt-2">
-                        AI Legal Conference Insights
+                        AnantLaw awarded Competition & Antitrust Firm of the Year 2023 by asialaw
                     </p>
                 </div>
             </div>

@@ -2065,10 +2065,10 @@ a:focus {
     max-width: 450px;
 } */
 .custom-heading {
-    font-size: 62px;
-    font-weight: 700;
+    font-size: 50px;
+    font-weight: 500;
     margin-bottom: 15px;
-    font-family: 'Playfair Display', serif; /* modern */
+    font-family: 'Playfair Display', serif;
 }
 
 .custom-text {

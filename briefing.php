@@ -1,23 +1,4 @@
 <?php include 'header.php'; ?>
-
-
-<!-- Page Header Start -->
-<!-- <div class="page-header">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <h2>Our Blog</h2>
-            </div>
-            <div class="col-12">
-                <a href="">Home</a>
-                <a href="">Our Blog</a>
-            </div>
-        </div>
-    </div>
-</div> -->
-<!-- Page Header End -->
-
-
 <!-- Blog Start -->
 <div class="blog">
     <div class="container">
@@ -52,9 +33,9 @@
                         Sep 5, 2025</p>
                 </div>
                 <h3>Family Law</h3>
-                <p>
+                <p><a href="single2.php">
                     AnantLaw bags the Rising Law Firm of the Year Award at Legal Era 2024 Awards Ceremony
-                </p>
+                </a></p>
                 <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
             </div>
             <div class="col-lg-4 col-md-6 blog-item">
@@ -67,9 +48,9 @@
                     <p>Mar 26, 2024</p>
                 </div>
                 <h3>Business Law</h3>
-                <p>
+                <p><a href="single3.php">
                     With over 1trillion$ of infrastructure projects at stake, IBLJ recognises Cement Cartel Case as Deal of the Year - 2023
-                </p>
+                </a></p>
                 <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
             </div>
             <div class="col-lg-4 col-md-6 blog-item">

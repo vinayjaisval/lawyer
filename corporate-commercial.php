@@ -104,7 +104,7 @@
                         <a href="#" class="view-link">View all services</a>
                     </p>
 
-                    <h1 class="custom-heading">
+                    <h1 class="custom-heading" style="font-size: 45px;">
                         Corporate & Commercial
                     </h1>
                     <p class="custom-text">

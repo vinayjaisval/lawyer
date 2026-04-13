@@ -102,7 +102,7 @@
                     <p class="custom-link">
                         <a href="#" class="view-link">View all services</a>
                     </p>
-                    <h1 class="custom-heading">
+                    <h1 class="custom-heading" style="font-size: 45px;">
                        Policy & Regulatory
                     </h1>
                     <p class="custom-text">
@@ -160,7 +160,7 @@
                                         <a href="#" class="">AWARDS & RANKINGS</a>
                                     </div>
                                     <h3 class="wix-title">
-                                        <a href="#">AnantLaw bags the Rising Law Firm of the Year Award at Legal Era 2024 Awards Ceremony</a>
+                                        <a href="single2.php">AnantLaw bags the Rising Law Firm of the Year Award at Legal Era 2024 Awards Ceremony</a>
                                     </h3>
 
 
@@ -186,7 +186,7 @@
                                         <a href="#">AWARDS & RANKINGS</a>
                                     </div>
                                     <h3 class="wix-title">
-                                        <a href="#">With over 1trillion$ of infrastructure projects at stake, IBLJ recognises Cement Cartel Case as Deal of the Year - 2023</a>
+                                        <a href="single3.php">With over 1trillion$ of infrastructure projects at stake, IBLJ recognises Cement Cartel Case as Deal of the Year - 2023</a>
                                     </h3>
 
 
