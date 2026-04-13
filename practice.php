@@ -38,7 +38,7 @@
                   <div class="service-item">
                     <div class="service-icon">
                       <a href="corporate-commercial.php">
-                      <img src="img/E2 Image.avif" alt="practice" />
+                      <img src="img/E2 Image.avif.mp4" alt="practice" />
                       </a>
                       <p>Corporate & Commercial</p>
                     </div>
@@ -49,7 +49,7 @@
                   <div class="service-item">
                     <div class="service-icon">
                        <a href="tech-media-telecom.php">
-                      <img src="img/E3 Image.avif" alt="practice" />
+                      <img src="img/E3 Image.avif.mp4" alt="practice" />
                        </a>
                       <p>Data Privacy & Protection</p>
                     </div>
@@ -60,7 +60,7 @@
                   <div class="service-item">
                     <div class="service-icon">
                       <a href="disputes-litigation.php">
-                      <img src="img/E4 Image.avif" alt="practice" />
+                      <img src="img/E4 Image.avif.mp4" alt="practice" />
                       </a>
                       <p>Disputes & Litigation</p>
                     </div>
@@ -71,7 +71,7 @@
                   <div class="service-item">
                     <div class="service-icon">
                       <a href="environment-sustainability.php">
-                      <img src="img/E5 Image.avif" alt="practice" />
+                      <img src="img/E5 Image.avif.mp4" alt="practice" />
                       </a>
                       <p>Environment & Sustainability</p>
                     </div>
@@ -82,7 +82,7 @@
                   <div class="service-item">
                     <div class="service-icon">
                       <a href="international-trade-wto.php">
-                      <img src="img/E6 Image.avif" alt="practice" />
+                      <img src="img/E6 Image.avif.mp4" alt="practice" />
                       </a>
                       <p>Intellectual Property</p>
                     </div>
@@ -115,7 +115,7 @@
                   <div class="service-item">
                     <div class="service-icon">
                       <a href="tech-media-telecom.php">
-                      <img src="img/E8 Image.avif" alt="practice" />
+                      <img src="img/E8 Image.avif.mp4" alt="practice" />
                       </a>
                       <p>Tech, Media & Telecom</p>
                     </div>
