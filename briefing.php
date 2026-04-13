@@ -35,8 +35,9 @@
                     <p>Sep 5, 2025</p>
                 </div>
                 <h3>Civil Law</h3>
-                <p>
+                <p><a href="single.php">
                     Delhi High Court upholds natural justice
+                    </a>
                 </p>
                 <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
             </div>
