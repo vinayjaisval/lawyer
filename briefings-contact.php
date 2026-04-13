@@ -41,8 +41,8 @@
               </li>
 
               <li class="nav-item">
-                <a class="nav-link">
-                  <!-- href="https://www.anantlaw.com/engage/talent-pool" -->
+                <a class="nav-link"
+                  href="briefings-talent-pool.php">
                   Apply →
                 </a>
               </li>

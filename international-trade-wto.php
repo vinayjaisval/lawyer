@@ -94,31 +94,47 @@
 </style>
 
 <div class="about">
-    <div class="container ">
-        <div class="row align-items-center g-5"> 
+    <div class="container">
+        <div class="row align-items-center">
+            <!-- LEFT SIDE CONTENT -->
             <div class="col-lg-7 col-md-6">
                 <div class="custom-left-content">
-                    <h2 style="max-width: 500px; line-height: 1.2; margin-bottom: 15px; font-size: 50px; font-weight: 800;">
-    Awards & Rankings
-</h2>
-
-                    <p style="max-width: 420px; line-height: 1.7; margin-top: 10px;">
-    AnantLaw provides innovative legal advise to clients across
-    industries that has won us various awards and rankings from leading
-    international agencies.
-</p>
+                    <p class="custom-link">
+                        <a href="#" class="view-link">View all services</a>
+                    </p>
+                    <h1 class="custom-heading">
+                       International Trade & WTO
+                    </h1>
+                    <p class="custom-text">
+                        RELATED PRACTICE AREAS
+                    </p>
+                    <div class="practice-area">
+                        <a href="antitrust-competition.php" class="practice-label">
+                            Antitrust & Competition
+                        </a>
+                    </div>
+                    <div class="practice-area">
+                        <a href="corporate-commercial.php" class="practice-label">
+                          Corporate & Commercial
+                        </a>
+                    </div>
+                    <div class="practice-area">
+                        <a href="disputes-litigation.php" class="practice-label">
+                            Disputes & Litigation
+                        </a>
+                    </div>
+                    <div class="practice-area">
+                        <a href="tech-media-telecom.php" class="practice-label">
+                            Tech, Media & Telecom
+                        </a>
+                    </div>
+                    <div class="practice-area">
+                        <a href="policy-regulatory.php" class="practice-label">
+                            Policy & Regultory
+                        </a>
+                    </div>
                 </div>
             </div>
-            <!-- Left Content -->
-            <!-- <div class="col-lg-7 col-md-6">
-                <div class="section-header">
-                    <h2>
-
-                        Awards & Rankings</h2>
-                </div>
-                <p >AnantLaw provides innovative legal advise to clients across industries that has won us various awards and rankings from leading international agencies.</p>
-
-            </div> -->
 
             <!-- Right Slider -->
             <div class="col-lg-5">
@@ -449,7 +465,6 @@
                 </div>
 
             </div>
-
         </div>
     </div>
 </div>

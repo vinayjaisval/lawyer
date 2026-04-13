@@ -147,12 +147,7 @@ include 'header.php';
                 </div>
                 <div class="about-text">
                     <p>
-                        Innovation is at the core of our DNA, driving the firm's mission to redefine the legal
-                        landscape. We aren’t content with the status quo and are committed to push boundaries, embrace
-                        new possibilities to drive positive change. One such example is the first ever judgement in
-                        India that led to reduction of penalty on the basis of relevant turnover & saved our client
-                        >100million US$. It is now the most cited judgement in India's competition law & was awarded
-                        'Deal of the Year' by Indian Business Law.
+                        Innovation is at the core of our DNA, driving the firm's mission to redefine the legal landscape. We aren’t content with the status quo and are committed to push boundaries, embrace new possibilities to drive positive change. One such example is the first ever judgement in India that led to reduction of penalty on the basis of relevant turnover & saved our client >100million US$. It is now the most cited judgement in India's competition law & was awarded 'Deal of the Year' by Indian Business Law.
                     </p>
                     <p>
                         Our mission is not just to act as trusted advisors but to partner with clients in their growth
@@ -206,7 +201,7 @@ include 'header.php';
                 bar for competitors</h2>
         </div>
         <div class="row">
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-4 col-md-6 d-flex">
                 <div class="service-item">
                     <!-- <div class="service-icon">
                         <i class="fa fa-landmark"></i>
@@ -219,7 +214,7 @@ include 'header.php';
                     <!-- <a class="btn" href="">Learn More</a> -->
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-4 col-md-6 d-flex">
                 <div class="service-item">
                     <!-- <div class="service-icon">
                         <i class="fa fa-users"></i>
@@ -233,7 +228,7 @@ include 'header.php';
                     <!-- <a class="btn" href="">Learn More</a> -->
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-4 col-md-6 d-flex">
                 <div class="service-item">
                     <!-- <div class="service-icon">
                         <i class="fa fa-hand-holding-usd"></i>

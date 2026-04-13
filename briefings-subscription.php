@@ -36,15 +36,15 @@
               </li>
 
               <li class="nav-item">
-                <a class="nav-link">
-                  <!-- href="https://www.anantlaw.com/engage/contact" -->
+                <a class="nav-link"
+                  href="briefings-contact.php">
                   Contact →
                 </a>
               </li>
 
               <li class="nav-item">
-                <a class="nav-link">
-                  <!-- href="https://www.anantlaw.com/engage/talent-pool" -->
+                <a class="nav-link"
+                  href="briefings-talent-pool.php">
                   Apply →
                 </a>
               </li>
@@ -62,10 +62,10 @@
     <div class="container">
 
       <!-- Main Content -->
-      <div class="row align-items-center">
+      <div class="row align-items-start">
 
         <!-- Left Text -->
-        <div class="col-lg-5 mb-4 mb-lg-0" style="margin-top: -386px;">
+        <div class="col-lg-5 mb-4 mb-lg-0" style="">
           <p class="briefing-text text-dark">
             Sign up to our briefings and get a direct feed on legal issues, news,
             recommendations and insights in your inbox. The content is exclusively
@@ -92,7 +92,7 @@
                 </div>
 
                 <!-- Button -->
-                <div class="col-12 d-flex justify-content-end align-items-start ">
+                <div class="col-12 d-flex justify-content-end align-items-start mt-4">
                   <button class="btn next-btn bg-dark text-white ">Next</button>
                 </div>
 

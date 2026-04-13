@@ -8,8 +8,8 @@
                             <h2>Contact Us</h2>
                         </div>
                         <div class="col-12">
-                            <a href="">Home</a>
-                            <a href="">Contact Us</a>
+                            <a href="index.php">Home</a>
+                            <a href="contact.php">Contact Us</a>
                         </div>
                     </div>
                 </div>
@@ -30,21 +30,21 @@
                                     <i class="fa fa-map-marker-alt"></i>
                                     <div class="contact-text">
                                         <h2>Location</h2>
-                                        <p>123 Street, New York, USA</p>
+                                        <p>A-2/2 Vasant Vihar New Delhi, 110057, India</p>
                                     </div>
                                 </div>
                                 <div class="contact-item">
                                     <i class="fa fa-phone-alt"></i>
                                     <div class="contact-text">
                                         <h2>Phone</h2>
-                                        <p>+012 345 67890</p>
+                                        <p>+91 11 4302 6688</p>
                                     </div>
                                 </div>
                                 <div class="contact-item">
                                     <i class="fa fa-envelope"></i>
                                     <div class="contact-text">
                                         <h2>Email</h2>
-                                        <p>info@example.com</p>
+                                        <p>contact@anantlaw.com</p>
                                     </div>
                                 </div>
                             </div>

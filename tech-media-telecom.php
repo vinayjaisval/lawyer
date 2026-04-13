@@ -94,31 +94,48 @@
 </style>
 
 <div class="about">
-    <div class="container ">
-        <div class="row align-items-center g-5"> 
+    <div class="container">
+
+        <div class="row align-items-center">
+            <!-- LEFT SIDE CONTENT -->
             <div class="col-lg-7 col-md-6">
                 <div class="custom-left-content">
-                    <h2 style="max-width: 500px; line-height: 1.2; margin-bottom: 15px; font-size: 50px; font-weight: 800;">
-    Awards & Rankings
-</h2>
-
-                    <p style="max-width: 420px; line-height: 1.7; margin-top: 10px;">
-    AnantLaw provides innovative legal advise to clients across
-    industries that has won us various awards and rankings from leading
-    international agencies.
-</p>
+                    <p class="custom-link">
+                        <a href="#" class="view-link">View all services</a>
+                    </p>
+                    <h1 class="custom-heading">
+                      Tech, Media & Telecom
+                    </h1>
+                    <p class="custom-text">
+                        RELATED PRACTICE AREAS
+                    </p>
+                    <div class="practice-area">
+                        <a href="antitrust-competition.php" class="practice-label">
+                            Antitrust & Competition
+                        </a>
+                    </div>
+                    <div class="practice-area">
+                        <a href="disputes-litigation.php" class="practice-label">
+                           Disputes & Litigation
+                        </a>
+                    </div>
+                    <div class="practice-area">
+                        <a href="corporate-commercial.php" class="practice-label">
+                            Corporate & Commercial
+                        </a>
+                    </div>
+                    <div class="practice-area">
+                        <a href="policy-regulatory.php" class="practice-label">
+                            Policy & Regultory
+                        </a>
+                    </div>
+                    <div class="practice-area">
+                        <a href="international-trade-wto.php" class="practice-label">
+                            International Trade & WTO
+                        </a>
+                    </div>
                 </div>
             </div>
-            <!-- Left Content -->
-            <!-- <div class="col-lg-7 col-md-6">
-                <div class="section-header">
-                    <h2>
-
-                        Awards & Rankings</h2>
-                </div>
-                <p >AnantLaw provides innovative legal advise to clients across industries that has won us various awards and rankings from leading international agencies.</p>
-
-            </div> -->
 
             <!-- Right Slider -->
             <div class="col-lg-5">
@@ -130,7 +147,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b2.avif">
+                                    <img src="img/b6.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -156,7 +173,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b3.avif">
+                                    <img src="img/b11.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -182,7 +199,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b4.avif">
+                                    <img src="img/b9.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -208,7 +225,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b12.avif">
+                                    <img src="img/b14.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -234,7 +251,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b22.avif">
+                                    <img src="img/b44.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -260,7 +277,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b23.avif">
+                                    <img src="img/b45.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -286,7 +303,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b24.avif">
+                                    <img src="img/b46.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -312,7 +329,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b25.avif">
+                                    <img src="img/b48.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -338,7 +355,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b26.avif">
+                                    <img src="img/b57.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -364,7 +381,7 @@
                         <div class="swiper-slide">
                             <div class="wix-card">
                                 <div class="wix-img">
-                                    <img src="img/b29.avif">
+                                    <img src="img/b59.avif">
                                 </div>
                                 <div class="wix-meta">
                                     <img src="img/a1.avif">
@@ -386,57 +403,7 @@
                             </div>
                         </div>
 
-                        <!-- Slide 11 -->
-                        <div class="swiper-slide">
-                            <div class="wix-card">
-                                <div class="wix-img">
-                                    <img src="img/b32.avif">
-                                </div>
-                                <div class="wix-meta">
-                                    <img src="img/a1.avif">
-                                    <div>
-                                        <span class="author">Partners' Desk</span><br>
-                                        <span class="date">Aug 24, 2023</span>
-                                    </div>
-                                </div>
-                                <div class="wix-content">
-                                    <div class="wix-category">
-                                        <a href="#">AWARDS & RANKINGS</a>
-                                    </div>
-                                    <h3 class="wix-title">
-                                        <a href="#">Anu Monga ranked for 4th Consecutive year among India's Super 50 Lawyers by Thomson Reuters</a>
-                                    </h3>
-
-
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Slide 12 -->
-                        <div class="swiper-slide">
-                            <div class="wix-card">
-                                <div class="wix-img">
-                                    <img src="img/b43.avif">
-                                </div>
-                                <div class="wix-meta">
-                                    <img src="img/a1.avif">
-                                    <div>
-                                        <span class="author">Partners' Desk</span><br>
-                                        <span class="date">Aug 8, 2023</span>
-                                    </div>
-                                </div>
-                                <div class="wix-content">
-                                    <div class="wix-category">
-                                        <a href="#">AWARDS & RANKINGS</a>
-                                    </div>
-                                    <h3 class="wix-title">
-                                        <a href="#">AnantLaw practice areas ranked and recognised by Benchmark Litigation</a>
-                                    </h3>
-
-
-                                </div>
-                            </div>
-                        </div>
+                    
 
                     </div>
 
@@ -449,7 +416,6 @@
                 </div>
 
             </div>
-
         </div>
     </div>
 </div>
